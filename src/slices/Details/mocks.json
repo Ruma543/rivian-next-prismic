@@ -1,0 +1,42 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Sunt officia pariatur est excepteur consectetur deserunt magna nulla occaecat eiusmod dolor ea aliqua. Consectetur officia ullamco et ut commodo incididunt minim quis officia nostrud. Labore deserunt ad occaecat fugiat aliqua occaecat anim culpa enim tempor voluptate enim."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"title",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "everywhere",
+							"type": "Text"
+						}
+					],
+					[
+						"name",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "note",
+							"type": "Text"
+						}
+					]
+				]
+			}
+		]
+	}
+]
